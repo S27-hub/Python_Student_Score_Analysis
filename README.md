@@ -17,20 +17,21 @@ We can also import the libraries when we need them but importing the all librari
 Dataset has been loaded and to get an overview of the data we call for the first five data with coloumns heading.
 The dataset contains total of 15 coloumns named with one unnamed coloum, which we will drop to make our data more compact.
 Data coloumns:
-Gender: Gender of the student (male/female)
-EthnicGroup: Ethnic group of the student (group A to E)
-ParentEduc: Parent(s) education background (from some_highschool to master's degree)
-LunchType: School lunch type (standard or free/reduced)
-TestPrep: Test preparation course followed (completed or none)
-ParentMaritalStatus: Parent(s) marital status (married/single/widowed/divorced)
-PracticeSport: How often the student parctice sport (never/sometimes/regularly))
-IsFirstChild: If the child is first child in the family or not (yes/no)
-NrSiblings: Number of siblings the student has (0 to 7)
-TransportMeans: Means of transport to school (schoolbus/private)
-WklyStudyHours: Weekly self-study hours(less that 5hrs; between 5 and 10hrs; more than 10hrs)
-MathScore: math test score(0-100)
-ReadingScore: reading test score(0-100)
-WritingScore: writing test score(0-100)
+1. Gender: Gender of the student (male/female)
+2. EthnicGroup: Ethnic group of the student (group A to E)
+3. ParentEduc: Parent(s) education background (from some_highschool to master's degree)
+4. LunchType: School lunch type (standard or free/reduced)
+5. TestPrep: Test preparation course followed (completed or none)
+6. ParentMaritalStatus: Parent(s) marital status (married/single/widowed/divorced)
+7. PracticeSport: How often the student parctice sport (never/sometimes/regularly))
+8. IsFirstChild: If the child is first child in the family or not (yes/no)
+9. NrSiblings: Number of siblings the student has (0 to 7)
+10. TransportMeans: Means of transport to school (schoolbus/private)
+11. WklyStudyHours: Weekly self-study hours(less that 5hrs; between 5 and 10hrs; more than 10hrs)
+12. MathScore: math test score(0-100)
+13. ReadingScore: reading test score(0-100)
+14. WritingScore: writing test score(0-100)
+15. unnamed: 0
 
 # Problem satatements
 1. What factors affect test scores most?
